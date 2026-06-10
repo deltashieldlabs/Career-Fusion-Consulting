@@ -33,7 +33,7 @@ export function Contact() {
                   <span className="text-[#00A4CC] text-2xl">📞</span>
                   <div>
                     <p className="font-semibold text-[#003366]">Phone</p>
-                    <p className="text-gray-600">+91 XXXXX XXXXX</p>
+                    <p className="text-gray-600">+91 9663479949</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
