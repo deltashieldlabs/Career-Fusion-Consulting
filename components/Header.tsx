@@ -65,7 +65,7 @@ export function Header() {
       <header className="bg-white/95 border border-[#00A4CC] shadow-md backdrop-blur-xl sticky top-0 z-40">
         <div className="max-w-7xl mx-auto px-0">
           <nav className="flex items-center justify-between h-24 pl-0 pr-4 sm:pr-6 lg:pl-0 lg:pr-8">
-          <Link href="/" className="flex items-center gap-3 hover:opacity-90 transition-opacity -ml-6">
+          <Link href="/" className="flex items-center gap-3 hover:opacity-90 transition-opacity">
             <img
               src={assetPath('images/career-fusion-logo.png')}
               alt="Career Fusion Consulting"
